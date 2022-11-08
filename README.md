@@ -28,6 +28,12 @@ We got to give a talk at an NIH conference called aim-ahead.net recently on the 
 
 Subscribe to our mailing list to learn when we launch: https://tinyletter.com/payless-health
 
+## Licensing
+
+Software is Apache 2.0. Content is CC-BY-SA 4.0.
+
 ## Contact
 
 Say hi! If you have a story to share about your journey trying to pay less for the health care you deserve, please share it with us: [stories@payless.health](stories@payless.health).
+
+
