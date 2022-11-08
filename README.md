@@ -18,7 +18,7 @@ Run the website generation with the node package manager:
 npm run dev
 ```
 
-In a web browser, navigate to [https://localhost:3000](https://localhost:3000) to view any changes you make to the code.
+In a web browser, navigate to [http://localhost:3000](http://localhost:3000) to view any changes you make to the code.
 
 We recommend Visual Studio Code to edit this website (you can also install this with Homebrew or Chocolatey).
 
