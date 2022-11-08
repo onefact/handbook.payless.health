@@ -5,9 +5,10 @@ import { ThemeToggle } from '.';
 
 export function Footer({ children: links, landing }) {
   const copyright = (
-    <Link href="https://stripe.com">
-      <svg
-        title="Built by Stripe"
+    <Link href="https://onefact.org">
+      Built by One Fact
+      {/* <svg
+        title="Built by One Fact"
         width="99"
         height="28"
         viewBox="0 0 99 28"
@@ -58,7 +59,7 @@ export function Footer({ children: links, landing }) {
           d="M60.6807 13.6615C60.6807 13.2189 61.0452 13.0487 61.6488 13.0487C62.5143 13.0487 63.6076 13.3097 64.4732 13.775V11.1081C63.5279 10.7336 62.594 10.5861 61.6488 10.5861C59.3368 10.5861 57.7993 11.789 57.7993 13.7977C57.7993 16.9299 62.1271 16.4305 62.1271 17.781C62.1271 18.303 61.6715 18.4732 61.0338 18.4732C60.0885 18.4732 58.8813 18.0874 57.9246 17.5654V20.2663C58.9838 20.7202 60.0543 20.9132 61.0338 20.9132C63.4026 20.9132 65.0313 19.7443 65.0313 17.7129C65.0199 14.3311 60.6807 14.9325 60.6807 13.6615Z"
           fill="var(--stripe)"
         />
-      </svg>
+      </svg> */}
     </Link>
   );
 
@@ -111,9 +112,9 @@ export function Footer({ children: links, landing }) {
             {i !== a.length - 1 ? ', ' : ''}
           </span>
         ))}
-        <span className="try-link">
+        {/* <span className="try-link">
           <Link href="/sandbox">Try Markdoc</Link>
-        </span>
+        </span> */}
       </h3>
       <hr />
       <style jsx>
@@ -184,7 +185,7 @@ export function Footer({ children: links, landing }) {
         <div className="flex">
           <div className="left gap">{copyright}</div>
           <div className="right gap">
-            {disclaimer}
+            {/* {disclaimer} */}
             {toggle}
           </div>
         </div>
@@ -193,7 +194,7 @@ export function Footer({ children: links, landing }) {
         {fancyLinks}
         {copyright}
         {toggle}
-        {disclaimer}
+        {/* {disclaimer} */}
       </footer>
       <style jsx>
         {`

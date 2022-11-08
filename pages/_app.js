@@ -80,7 +80,7 @@ export default function MyApp(props) {
     ? collectHeadings(pageProps.markdoc.content)
     : [];
 
-  const isDocs = props.router.asPath.startsWith('/docs');
+  const isDocs = props.router.asPath.startsWith('/handbook');
   const isLandingPage = props.router.pathname === '/';
 
   React.useEffect(() => console.log(MARKDOC), []);
@@ -140,15 +140,15 @@ export default function MyApp(props) {
         Skip to content
       </a>
       <TopNav>
-        <Link href="/docs/getting-started">Docs</Link>
-        <Link href="https://github.com/markdoc/markdoc">GitHub</Link>
-        <Link href="https://github.com/markdoc/markdoc/discussions">
+        <Link href="/handbook/getting-started">Handbook</Link>
+        <Link href="https://github.com/onefact/payless.health">GitHub</Link>
+        <Link href="https://github.com/onefact/payless.health/discussions">
           Community
         </Link>
-        <Link href="https://twitter.com/StripeDev">Twitter</Link>
-        <span className="primary no-mobile">
+        <Link href="https://twitter.com/PaylessHealth">Twitter</Link>
+        {/* <span className="primary no-mobile">
           <Link href="/sandbox">Try</Link>
-        </span>
+        </span> */}
       </TopNav>
       <div className="page">
         {isDocs ? <SideNav /> : null}
@@ -160,12 +160,12 @@ export default function MyApp(props) {
       </div>
       <div className="footer-bar">
         <Footer landing={isLandingPage}>
-          <Link href="/docs/getting-started">Docs</Link>
-          <Link href="https://github.com/markdoc/markdoc">GitHub</Link>
-          <Link href="https://github.com/markdoc/markdoc/discussions">
+          <Link href="/handbook/getting-started">Handbook</Link>
+          <Link href="https://github.com/onefact/payless.health">GitHub</Link>
+          <Link href="https://github.com/onefact/payless.health/discussions">
             Community
           </Link>
-          <Link href="https://twitter.com/StripeDev">Twitter</Link>
+          <Link href="https://twitter.com/PaylessHealth">Twitter</Link>
         </Footer>
       </div>
       <style jsx global>
