@@ -1,3 +1,27 @@
+## Building the website
+
+Clone the repo:
+```
+git clone https://github.com/onefact/payless.health.git
+```
+
+If needed, install the node package manager `npm` and the Node Javascript package with Homebrew on Mac -- `brew install node` after [installing Brew using this link](https://brew.sh/). On Windows, use Chocolatey to install by running `choco install nodejs-lts` after [installing Chocolatey](https://chocolatey.org/install).
+
+Install the dependencies for Markdoc:
+```
+cd payless.health
+npm install --legacy-peer-deps
+```
+
+Run the website generation with the node package manager:
+```
+npm run dev
+```
+
+In a web browser, navigate to [https://localhost:3000](https://localhost:3000) to view any changes you make to the code.
+
+We recommend Visual Studio Code to edit this website (you can also install this with Homebrew or Chocolatey).
+
 ## Funding
 
 We received a grant from Columbia University and Stanford University through their Brown Institute for Media Innovation: https://brown.columbia.edu/22-23-magic/
