@@ -63,43 +63,43 @@ export function Footer({ children: links, landing }) {
     </Link>
   );
 
-  const disclaimer = (
-    <span className="disclaimer">
-      This site was{' '}
-      <a href="" className="live-edit">
-        built using Markdoc
-      </a>
-      <style jsx>
-        {`
-          .disclaimer {
-            color: rgba(24, 24, 27, 0.5);
-            padding-left: 2rem;
-            font-size: 15px;
-            font-weight: 400;
-            line-height: 27px;
-          }
+  // const disclaimer = (
+  //   <span className="disclaimer">
+  //     This site was{' '}
+  //     <a href="" className="live-edit">
+  //       built using Markdoc
+  //     </a>
+  //     <style jsx>
+  //       {`
+  //         .disclaimer {
+  //           color: rgba(24, 24, 27, 0.5);
+  //           padding-left: 2rem;
+  //           font-size: 15px;
+  //           font-weight: 400;
+  //           line-height: 27px;
+  //         }
 
-          .disclaimer button {
-            display: inline-block;
-            padding: 0;
-            color: inherit;
-            text-decoration: underline;
-            font-weight: regular;
-          }
+  //         .disclaimer button {
+  //           display: inline-block;
+  //           padding: 0;
+  //           color: inherit;
+  //           text-decoration: underline;
+  //           font-weight: regular;
+  //         }
 
-          :global(body.dark) .disclaimer {
-            color: var(--white);
-          }
+  //         :global(body.dark) .disclaimer {
+  //           color: var(--white);
+  //         }
 
-          @media screen and (max-width: 1000px) {
-            .disclaimer {
-              display: none;
-            }
-          }
-        `}
-      </style>
-    </span>
-  );
+  //         @media screen and (max-width: 1000px) {
+  //           .disclaimer {
+  //             display: none;
+  //           }
+  //         }
+  //       `}
+  //     </style>
+  //   </span>
+  // );
 
   const toggle = <ThemeToggle />;
 
