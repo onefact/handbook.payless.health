@@ -96,7 +96,7 @@ The One Fact Foundation created Payless Health using the same tools that Google 
 
 - **Support the cause**
 
-  Interest in sponsoring our work by giving your or your company's time, resources, skills, or philanthropy? Email Jaan at [jaan@onefact.org](mailto:jaan@onefact.org) {% .primary %}
+  Interested in sponsoring our work by giving your or your company's time, resources, skills, or philanthropy? Email Jaan at [jaan@onefact.org](mailto:jaan@onefact.org) {% .primary %}
 
 {% /features %}
 
