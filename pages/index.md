@@ -88,7 +88,7 @@ The One Fact Foundation created Payless Health using the same tools that Google 
 
 - **Contribute**
 
-  Email us your stories about paying for health care at [stories@payless.health](mailto:stories@payless.health). 
+  Email us your stories about paying (or being unable to pay) for health care at [stories@payless.health](mailto:stories@payless.health). 
 
 - **Get help**
 
