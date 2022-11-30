@@ -1,17 +1,17 @@
 import React from 'react';
-import { DocSearch } from '@docsearch/react';
+// import { DocSearch } from '@docsearch/react';
 
 import { AppLink as Link } from '../AppLink';
 
-function Search() {
-  return (
-    <DocSearch
-      appId={process.env.NEXT_PUBLIC_ALGOLIA_APP_ID}
-      apiKey={process.env.NEXT_PUBLIC_ALGOLIA_API_KEY}
-      indexName="markdoc"
-    />
-  );
-}
+// function Search() {
+//   return (
+//     <DocSearch
+//       appId={process.env.NEXT_PUBLIC_ALGOLIA_APP_ID}
+//       apiKey={process.env.NEXT_PUBLIC_ALGOLIA_API_KEY}
+//       indexName="markdoc"
+//     />
+//   );
+// }
 
 export function TopNav({ children }) {
   const [showMobileNav, setShowMobileNav] = React.useState(false);
@@ -66,7 +66,7 @@ export function TopNav({ children }) {
         </div>
         <section className={showMobileNav ? 'active' : ''}>
           {children}
-          <Search />
+          {/* <Search /> */}
         </section>
       </nav>
       <style jsx>

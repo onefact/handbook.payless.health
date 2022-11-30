@@ -24,7 +24,9 @@ description: From patients to doctors, Payless.health is a free platform to help
 
   {% item %}
 
-  ### Open source {% .jumbo %}
+  ### Payless Health {% .jumbo %}
+
+  [Payless.health](https://payless.health) is a search engine and open database of all hospital prices in the United States. We are currently running a [data bounty](https://www.dolthub.com/blog/2022-10-28-announcing-hospital-urls/) and paying up to $10,000 for help collecting this data that is public by federal law.
 
   Payless Health is open source so you can trust it; most electronic health records in the United States are closed.
   {% /item %}
