@@ -21,7 +21,7 @@ Before you start your search, write out a few things you know you want to work o
 
 ## Starting your search
 
-Do a general google search of therapists in your area. [Psychology Today](https://www.psychologytoday.com/us/therapists) offers a search tool to narrow down based on modality and if they offer telehealth, etc. It is not extensive. Usually, you can request a list of providers in your network from your health insurance provider. I may have further guidance about resources for finding a mental health professional in your region.  
+Do a general google search of therapists in your area. [Psychology Today](https://www.psychologytoday.com/us/therapists) offers a search tool to narrow down based on modality and if they offer telehealth, etc. It is not extensive. Usually, you can request a list of providers in your network from your health insurance provider. 
 
 ## Making your first call
 
