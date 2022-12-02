@@ -5,7 +5,7 @@ description: A free handbook for anyone to learn how to navigate health care sys
 
 Welcome to the Payless Health Handbook! This is a free resource for anyone to learn how to navigate health care systems and insurance.
 
-[View handbook](/getting-started) {% .primary %}
+[View the first page of the handbook](/finding-a-therapist) {% .primary %}
 
 **Contribute**
 
