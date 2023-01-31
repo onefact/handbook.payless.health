@@ -1,6 +1,6 @@
 ---
-title: Handbook
-description: A free handbook for anyone to learn how to navigate health care systems and insurance.
+title: Help Pages
+description: How to navigate your health care and pay less for the help you need.
 ---
 
 Welcome to the Payless Health Handbook! This is a free resource for anyone to learn how to navigate health care systems and insurance.
