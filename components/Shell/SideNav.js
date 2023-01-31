@@ -4,7 +4,7 @@ import Link from 'next/link';
 
 const items = [
   {
-    title: 'Getting help',
+    title: 'Guidance',
     links: [
       { href: '/finding-a-therapist', children: 'Finding a Therapist' },
       { href: '/guide-to-cheaper-prescriptions', children: 'Guide to Cheaper Prescriptions' },
