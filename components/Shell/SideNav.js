@@ -6,8 +6,8 @@ const items = [
   {
     title: 'Getting help',
     links: [
-      { href: '/finding-a-therapist', children: 'Finding a therapist' },
-      { href: '/guide-to-cheaper-prescriptions', children: 'Guide to cheaper prescription' },
+      { href: '/finding-a-therapist', children: 'Finding a Therapist' },
+      { href: '/guide-to-cheaper-prescriptions', children: 'Guide to Cheaper Prescriptions' },
     ]
   },
 ];
