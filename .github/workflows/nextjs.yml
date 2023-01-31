@@ -2,7 +2,7 @@
 # From https://github.com/actions/starter-workflows/blob/edae9e95bf1c84aff6e1d34afcb7bde9288d0e25/pages/nextjs.yml
 # To get started with Next.js see: https://nextjs.org/docs/getting-started
 #
-name: Deploy handbook.payless.health site to GitHub Pages
+name: Deploy help.payless.health site to GitHub Pages
 
 on:
   # Runs on pushes targeting the default branch
