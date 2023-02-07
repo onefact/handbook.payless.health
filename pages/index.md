@@ -3,9 +3,9 @@ title: Help Pages
 description: How to navigate your health care and pay less for the help you need.
 ---
 
-Welcome to the Payless Health Handbook! This is a free resource for anyone to learn how to navigate health care systems and insurance.
+Welcome to the Payless Health Help Page! Here are a set of resources for anyone to learn how to navigate health care systems and insurance.
 
-[View the first page of the handbook](/finding-a-therapist) {% .primary %}
+[View the first help page](/finding-a-therapist) {% .primary %}
 
 **Contribute**
 
