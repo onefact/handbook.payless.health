@@ -134,8 +134,7 @@ export default function MyApp(props) {
           name="twitter:image"
           content="https://markdoc.dev/images/share.png"
         />
-        <script defer data-domain="payless.health" src="https://plausible.io/js/script.js"></script>
-      </Head>
+        <script defer data-domain="help.payless.health" src="https://plausible.io/js/script.js"></script>
       {/* https://webaim.org/techniques/skipnav/ */}
       <a href="#skip-nav" className="skip-nav">
         Skip to content
