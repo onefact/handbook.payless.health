@@ -18,6 +18,12 @@ Did you wish that people would just stop complaining about health care costs and
 
 ## Checklist for a concerned citizen
 
-
+- [ ] item one
+- [ ] item two
+- [ ] item three
 
 ## Checklist for a Government Employee
+
+- [ ] gag order
+- [ ] NDA
+- [ ] checked social engineering going on and information asymmetry going on and incentives going on
