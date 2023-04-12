@@ -135,6 +135,7 @@ export default function MyApp(props) {
           content="https://markdoc.dev/images/share.png"
         />
         <script defer data-domain="help.payless.health" src="https://plausible.io/js/script.js"></script>
+      </Head>
       {/* https://webaim.org/techniques/skipnav/ */}
       <a href="#skip-nav" className="skip-nav">
         Skip to content
