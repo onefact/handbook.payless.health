@@ -1,7 +1,7 @@
 ---
-title: How to use open records to understand whether your local government can save taxpayer money on health care
-description: Checklist for using your local right-to-know laws and assessing the potential for wage depression as a result of inflated health care cost.
-authors: Mark Pinsley, MBA
+title: American Hospitals Viewer Guide
+description: 
+authors: Rachel Westlake, BCPA, Michele Tadiello, MMCi
 editor: Jaan Altosaar, PhD
 ---
 
@@ -10,7 +10,7 @@ editor: Jaan Altosaar, PhD
 Authors: {% $markdoc.frontmatter.authors %}
 Editor: {% $markdoc.frontmatter.editor %}
 
-[Edit this page](https://github.com/onefact/help.payless.health/edit/main/pages/using-your-government-to-pay-less-for-health.md)
+[Edit this page or propose changes](https://github.com/onefact/help.payless.health/edit/main/pages/american-hospitals.md)
 
 You've just watched _American Hospitals_, and you might be left scratching your head.
 
@@ -34,44 +34,20 @@ As a first step, consider the goals of Healthy California, which is founded on t
 
 Next, check out this map:
 
-TODO(mictadiello,jaanli): Add map
+{% maps 
+   src="cms_hospital_info.html" /%}
 
-This map shows every hospital in each in California as defined by the federal government using this data: https://data.cms.gov/provider-data/dataset/xubh-q36u. 
+This map shows every hospital in each in California and the rest of the country as defined by the federal government using this data: https://data.cms.gov/provider-data/dataset/xubh-q36u. 
 
-The map is color-coded by hospital quality metrics released by the State of California. 
+The map includes metrics of hospital quality released by the federal government, so you can see the quality of care in your community and use these metrics to inform decision-making.
 
-Green means the hospital is in the top 10% of hospitals in the state.
+The map is interactive. You can click on a hospital to see more information about it, such as these quality metrics.
 
-Yellow means the hospital is in the top 25% of hospitals in the state.
-
-Red means the hospital is in the bottom 25% of hospitals in the state.
-
-The map is interactive. You can click on a hospital to see more information about it.
-
-This data is available for download here: https://data.chhs.ca.gov/dataset/california-hospital-inpatient-mortality-rates-and-quality-ratings and is released by the California Health and Human Services Agency whose goals are to "spark innovation, promote research and economic opportunities, engage public participation in government, increase transparency, and inform decision-making."
-
-This map can enable you to:
-
-* see the quality of care in your community, as determined by the State of California.
-
-We are working on adding pricing information from hospitals to better help you make decisions that affect your health or the health of those around you.
-
-Learn how to improve existing guidance material in the Help Pages or create new guidance material
-Apply skills gained from our work in education and AI to improve the product and service
-Share stories based on the data through journalism, policymaking, research, or grassroots organizing
-
-
-
-## In the upcoming days
-
-Schedule time in your calendar to review this page and decide whether or not you want to take actions in this reference page, big or small. 
-
-## 
-
+We are working on adding pricing information from hospitals to better help you make decisions that affect your health or the health of those around you. For now, we have 4000+ hospitals` price sheets collected at https://data.payless.health/ which you can search by hospital CMS Certification Number (CCN, which you can look up here - https://data.cms.gov/tools/medicare-inpatient-hospital-look-up-tool).
 
 ## Share these resources
 
-Feel free to send this 
+Feel free to send this page to friends and family or other viewers of the film!
 
 ## Contribute to the Help Pages
 
@@ -82,3 +58,12 @@ Feel free to read the Frequently Asked Questions page to learn how to contribute
 You can also see our roadmap for the Help Pages here: https://github.com/orgs/onefact/projects/8/views/1
 
 If you want to contribute to the software that powers these open source resources, you can see our roadmap for the quality metrics here: https://github.com/orgs/onefact/projects/12 
+
+## Contribute to the One Fact Foundation
+
+We need help! If you are interested in contributing to the One Fact Foundation to enable us to deliver these free, open source resources to across communities America, please consider donating gifting $100, $1000, or $10,000 to the One Fact Foundation. Contributions are tax-deductible given our 501(c)(3) status (listed under Employer Identification Number or EIN, 88-2145154). To donate:
+
+* use [Stripe](https://donate.onefact.org/stripe)
+* Venmo us at [@onefact](https://account.venmo.com/u/onefact)
+* [Cash app us here](https://cash.app/$onefact)
+* or send a check to One Fact Foundation, 2093 Philadelphia Pike #1764, Claymont, DE 19703 (or via Schwab or Vanguard Charitable by using our EIN number)
