@@ -5,7 +5,7 @@ export function Maps(props) {
     <div>
       <iframe 
       {...props}
-      allowfullscreen
+      allowFullScreen
       />
       <style jsx>
         {`
