@@ -56,9 +56,10 @@ Send us an email if you want to contribute to either software, analysis, dissemi
 
 Feel free to read the [Frequently Asked Questions page](https://payless.health/faq) to learn how to contribute to the Help Pages. 
 
-You can also see our roadmap for the Help Pages here: https://github.com/orgs/onefact/projects/8/views/1
+You can also see our roadmap for the Help Pages here: [https://github.com/orgs/onefact/projects/8/views/1](https://github.com/orgs/onefact/projects/8/views/1)
 
-If you want to contribute to the software that powers these open source resources, you can see our roadmap for the quality metrics here: https://github.com/orgs/onefact/projects/12 
+If you want to contribute to the software that powers these open source resources, you can see our roadmap for the quality metrics here: [https://github.com/orgs/onefact/projects/12](https://github.com/orgs/onefact/projects/12)
+
 
 ## Contribute to the One Fact Foundation
 
