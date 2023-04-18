@@ -12,7 +12,7 @@ Editor: {% $markdoc.frontmatter.editor %}
 
 [Edit this page or propose changes](https://github.com/onefact/help.payless.health/edit/main/pages/american-hospitals.md)
 
-You've just watched _American Hospitals_, and you might be left scratching your head.
+You've just watched [_American Hospitals_](https://fixithealthcare.com/), and you might be left scratching your head.
 
 That was a lot of information!
 
@@ -54,7 +54,7 @@ Feel free to send this page to friends and family or other viewers of the film!
 
 Send us an email if you want to contribute to either software, analysis, dissemination, or Help Pages: [help@payless.health](mailto:help@payless.health). We will follow up with you as we make progress toward our grant goals for the [Brown Institute](https://brown.columbia.edu/22-23-magic/). 
 
-Feel free to read the [Frequently Asked Questions page](https://payless.health/faq) to learn how to contribute to the Help Pages. 
+Feel free to read the [Frequently Asked Questions page](https://payless.health/faq) to learn how to contribute to the [Help Pages](https://help.payless.health/). 
 
 You can also see our roadmap for the Help Pages here: [https://github.com/orgs/onefact/projects/8/views/1](https://github.com/orgs/onefact/projects/8/views/1)
 
