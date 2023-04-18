@@ -52,7 +52,7 @@ Feel free to send this page to friends and family or other viewers of the film!
 
 ## Contribute to the Help Pages
 
-Send us an email if you want to contribute to either software, analysis, dissemination, or Help Pages: [help@payless.health](mailto:help@payless.health). We will follow up with you as we make progress toward our grant goals for the [Brown Institute](https://brown.columbia.edu/22-23-magic/). 
+Send us an email if you want to contribute to either software, analysis, dissemination, or Help Pages: [help@payless.health](mailto:help@payless.health) . We will follow up with you as we make progress toward our grant goals for the [Brown Institute](https://brown.columbia.edu/22-23-magic/). 
 
 Feel free to read the [Frequently Asked Questions page](https://payless.health/faq) to learn how to contribute to the [Help Pages](https://help.payless.health/). 
 
