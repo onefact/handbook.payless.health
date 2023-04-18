@@ -37,13 +37,14 @@ Next, check out this map:
 {% maps 
    src="cms_hospital_info.html" /%}
 
-This map shows every hospital in each in California and the rest of the country as defined by the federal government using this data: https://data.cms.gov/provider-data/dataset/xubh-q36u. 
+This map shows every hospital in each in California and the rest of the country as defined by the federal government using [this data](https://data.cms.gov/provider-data/dataset/xubh-q36u).
 
 The map includes metrics of hospital quality released by the federal government, so you can see the quality of care in your community and use these metrics to inform decision-making.
 
 The map is interactive. You can click on a hospital to see more information about it, such as these quality metrics.
 
-We are working on adding pricing information from hospitals to better help you make decisions that affect your health or the health of those around you. For now, we have 4000+ hospitals` price sheets collected at https://data.payless.health/ which you can search by hospital CMS Certification Number (CCN, which you can look up here - https://data.cms.gov/tools/medicare-inpatient-hospital-look-up-tool).
+We are working on adding pricing information from hospitals to better help you make decisions that affect your health or the health of those around you. For now, we have 4000+ hospitals` price sheets collected at [https://data.payless.health/](https://data.payless.health/) which you can search by hospital CMS Certification Number (CCN, which you can look up here - [https://data.cms.gov/tools/medicare-inpatient-hospital-look-up-tool](https://data.cms.gov/tools/medicare-inpatient-hospital-look-up-tool)).
+
 
 ## Share these resources
 
