@@ -11,7 +11,7 @@ Editor: {% $markdoc.frontmatter.authors %}
 
 [Edit this page or propose changes](https://github.com/onefact/help.payless.health/edit/main/pages/american-hospitals.md)
 
-You've just watched [_American Hospitals_](https://fixithealthcare.com/), and you might be left scratching your head.
+You've just watched [_American Hospitals_](https://fixithealthcare.com/) and might be left scratching your head.
 
 That was a lot of information!
 
@@ -36,18 +36,18 @@ Next, check out this map:
 {% maps 
    src="cms_hospital_info.html" /%}
 
-This map shows every hospital in each in California and the rest of the country as defined by the federal government using [this data](https://data.cms.gov/provider-data/dataset/xubh-q36u).
+This map shows every hospital in California and the rest of the country as defined by the federal government using [this data](https://data.cms.gov/provider-data/dataset/xubh-q36u).
 
 The map includes metrics of hospital quality released by the federal government, so you can see the quality of care in your community and use these metrics to inform decision-making.
 
-The map is interactive. You can click on a hospital to see more information about it, such as these quality metrics.
+The map is interactive. You can click on a hospital to view more information about it, such as these quality metrics.
 
-We are working on adding pricing information from hospitals to better help you make decisions that affect your health or the health of those around you. For now, we have 4000+ hospitals` price sheets collected at [https://data.payless.health/](https://data.payless.health/) which you can search by hospital CMS Certification Number (CCN, which you can look up here - [https://data.cms.gov/tools/medicare-inpatient-hospital-look-up-tool](https://data.cms.gov/tools/medicare-inpatient-hospital-look-up-tool)).
+We are working on adding pricing information from hospitals to help you make decisions that affect your health or the health of those around you. For now, we have 4000+ hospitals` price sheets collected at [https://data.payless.health/](https://data.payless.health/) which you can search by hospital CMS Certification Number (CCN, which you can look up here - [https://data.cms.gov/tools/medicare-inpatient-hospital-look-up-tool](https://data.cms.gov/tools/medicare-inpatient-hospital-look-up-tool)).
 
 
 ## Share these resources
 
-Feel free to send this page to friends and family or other viewers of the film!
+Feel free to send this page to friends and family or other film viewers!
 
 ## Contribute to the Help Pages
 
@@ -62,9 +62,9 @@ If you want to contribute to the software that powers these open source resource
 
 ## Contribute to the One Fact Foundation
 
-We need help! If you are interested in contributing to the One Fact Foundation to enable us to deliver these free, open source resources to across communities America, please consider donating gifting $100, $1000, or $10,000 to the One Fact Foundation. Contributions are tax-deductible given our 501(c)(3) status (listed under Employer Identification Number or EIN, 88-2145154). To donate:
+We need help! If you are interested in contributing to the One Fact Foundation to enable us to deliver these free, open source resources across communities in America, please consider gifting $100, $1000, or $10,000 to the One Fact Foundation. Contributions are tax-deductible given our 501(c)(3) status (listed under Employer Identification Number or EIN, 88-2145154). To donate:
 
 * use [Stripe](https://donate.onefact.org/stripe)
 * Venmo us at [@onefact](https://account.venmo.com/u/onefact)
 * [Cash app us here](https://cash.app/$onefact)
-* or send a check to One Fact Foundation, 2093 Philadelphia Pike #1764, Claymont, DE 19703 (or via Schwab or Vanguard Charitable by using our EIN number)
+* or send a check to One Fact Foundation, 2093 Philadelphia Pike #1764, Claymont, DE 19703 (or via Schwab or Vanguard Charitable by using our EIN)
