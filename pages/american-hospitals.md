@@ -1,8 +1,7 @@
 ---
 title: American Hospitals Viewer Guide
 description: 
-authors: Rachel Westlake, BCPA, Michele Tadiello, MMCi
-editor: Jaan Altosaar, PhD
+authors: Jaan Altosaar, PhD; Michele Tadiello, MMCi; Rachel Westlake, BCPA
 ---
 
 # {% $markdoc.frontmatter.title %}
