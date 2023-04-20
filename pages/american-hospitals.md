@@ -1,13 +1,12 @@
 ---
 title: American Hospitals Viewer Guide
-description: 
-authors: Jaan Altosaar, PhD; Michele Tadiello, MMCi; Rachel Westlake, BCPA; Editor: 
+description: How to take action after watching the American Hospitals documentary.
+authors: Jaan Altosaar, PhD; Michele Tadiello, MMCi; Rachel Westlake, BCPA
 ---
 
 # {% $markdoc.frontmatter.title %}
 
 Authors: {% $markdoc.frontmatter.authors %}
-Editor: {% $markdoc.frontmatter.authors %}
 
 [Edit this page or propose changes](https://github.com/onefact/help.payless.health/edit/main/pages/american-hospitals.md)
 
