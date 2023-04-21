@@ -39,7 +39,7 @@ This map shows every hospital in California and the rest of the country as defin
 
 The map is an initial prototype of hospital quality  metrics released by the federal government, so you can see the quality of care in your community and use these metrics to inform decision-making.
 
-This interactive map serves as a preliminary example of our upcoming final release, which will incorporate additional quality metrics for a more comprehensive evaluation. By clicking on a hospital, you can currently view and compare patient safety ratings with other hospitals across the country. To stay updated on our progress and gain access to the enhanced version, subscribe to our newsletter at tinyletter.com/onefact.
+This interactive map serves as a preliminary example of our upcoming final release, which will incorporate additional quality metrics for a more comprehensive evaluation. By clicking on a hospital, you can currently view and compare patient safety ratings with other hospitals across the country. To stay updated on our progress and gain access to the enhanced version, subscribe to our newsletter at [tinyletter.com/onefact](https://tinyletter.com/onefact).
 
 We are working on adding pricing information from hospitals to help you make decisions that affect your health or the health of those around you. For now, we have 4000+ hospitals` price sheets collected at [https://data.payless.health/](https://data.payless.health/) which you can search by hospital CMS Certification Number (CCN, which you can look up here - [https://data.cms.gov/tools/medicare-inpatient-hospital-look-up-tool](https://data.cms.gov/tools/medicare-inpatient-hospital-look-up-tool)).
 
