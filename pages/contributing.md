@@ -68,6 +68,7 @@ We're excited to have you contribute and are here to help guide you in the right
 
 We're on the lookout for guidance on the basics of self-advocacy in health care from both everyday patients and expert advocates (and we know that sometimes, you're both!). We want to share the methods, tips, and tricks you've discovered that can empower people to make their voices heard, navigate the health care system like pros, and become their own health care heroes.
 
+
 **Here's what we're looking for**:
 
 > **Self-Advocacy 101:** Share the essential self-advocacy strategies that every health care adventurer should know. What are the key principles or mindsets helped you or those you've worked with?
