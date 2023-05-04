@@ -11,8 +11,8 @@ Authors: {% $markdoc.frontmatter.authors %}
 [Edit this page](https://github.com/onefact/handbook.payless.health/edit/main/pages/contributing.md)
 
 
-## Contributing Help Pages
-## Join the Payless Health Party! Harnessing community wisdom to create an open-source treasure trove of health care know-how
+## Join the Payless Health Party - Contributing to Help Pages! 
+Let's harnessing community wisdom to create an open-source treasure trove of health care know-how
 
 
 
@@ -62,20 +62,19 @@ Your contributions to our Help Pages are the secret sauce that makes Payless Hea
 Ready to join the party? Let's do this together!
 
 **Share Your Expertise for Self-Advocacy Success**
-
 We're excited to have you contribute and are here to help guide you in the right direction. Right now, there's some specific material we're particularly interested in.
 
 We're on the lookout for guidance on the basics of self-advocacy in health care from both everyday patients and expert advocates (and we know that sometimes, you're both!). We want to share the methods, tips, and tricks you've discovered that can empower people to make their voices heard, navigate the health care system like pros, and become their own health care heroes.
 
-Here's what we're looking for:
+**Here's what we're looking for**:
 
-**Self-Advocacy 101:** Share the essential self-advocacy strategies that every health care adventurer should know. What are the key principles or mindsets helped you or those you've worked with?
-
-**Effective Advocacy Techniques:** What are the specific techniques and approaches you've used or guided others to use in advocating for themselves in various health care situations? What strategies have you found most effective in overcoming challenges and ensuring optimal care, without getting too case-specific?
-
-**Dealing with Health Care Professionals:** How do you build effective relationships with health care providers while standing up for your needs and rights, or coaching others to do so? How do you build partnerships with those professionals? Share your secrets to communication and collaboration success.
-
-**Making It Accessible:** Let’s make health care a breeze for everyone. When sharing your experiences and advice, please organize your material in a straightforward manner with plain language so that it's accessible to the broadest possible audience.
+> **Self-Advocacy 101:** Share the essential self-advocacy strategies that every health care adventurer should know. What are the key principles or mindsets helped you or those you've worked with?
+>
+> **Effective Advocacy Techniques:** What are the specific techniques and approaches you've used or guided others to use in advocating for themselves in various health care situations? What strategies have you found most effective in overcoming challenges and ensuring optimal care, without getting too case-specific?
+>
+> **Dealing with Health Care Professionals:** How do you build effective relationships with health care providers while standing up for your needs and rights, or coaching others to do so? How do you build partnerships with those professionals? Share your secrets to communication and collaboration success.
+>
+> **Making It Accessible:** Let’s make health care a breeze for everyone. When sharing your experiences and advice, please organize your material in a straightforward manner with plain language so that it's accessible to the broadest possible audience.
 
 We can't wait to learn from your expertise, techniques, and experiences, and to share your wisdom with the Payless Health community. Let’s educate each other to become self-advocacy champions!
 
