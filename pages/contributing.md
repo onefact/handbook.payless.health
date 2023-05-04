@@ -11,8 +11,8 @@ Authors: {% $markdoc.frontmatter.authors %}
 [Edit this page](https://github.com/onefact/handbook.payless.health/edit/main/pages/contributing.md)
 
 
-## Join the Payless Health Party - Contributing to Help Pages! 
-Let's harnessing community wisdom to create an open-source treasure trove of health care know-how
+## Contributing to Help Pages
+**Let's harnessing community wisdom to create an open-source treasure trove of health care know-how**
 
 
 
