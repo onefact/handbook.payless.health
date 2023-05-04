@@ -12,9 +12,8 @@ Authors: {% $markdoc.frontmatter.authors %}
 
 
 ## Contributing Help Pages
-
 ## Join the Payless Health Party!
-### Harnessing community wisdom to create an open-source treasure trove of health care know-how
+## Harnessing community wisdom to create an open-source treasure trove of health care know-how
 
 
 Welcome, health care adventurers, to the Payless Health Help Pages! We're on a mission to make navigating health care systems easier, and we need your help!
