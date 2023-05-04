@@ -22,33 +22,34 @@ As a nonprofit organization, we're all about transforming health care access and
 
 The Help Pages are an empowering, educational collection of resources created by you – our fantastic community of experts. There are many reasons why your contributions matter. Here are a few that align with our values:
 
-**Irreverence: Shake Things Up!**
+> **Irreverence: Shake Things Up!**
+>
+> Health care is serious business, and lousy health care is dangerous, but we like to have fun while we create change. We need your fresh perspectives and creative problem-solving to challenge the status quo and make our Help Pages a treasure trove of innovative ideas.
+>
+> **Generosity: Sharing is Caring**
+>
+> When you contribute to our Help Pages, you're not only helping yourself – you're helping others, too! By sharing your know-how, you're creating a valuable, free resource for everyone to access and enjoy.
+>
+> **Proximity: We're All in This Together**
+>
+> Our community is the lifeblood of Payless Health. By sourcing content from people like you, we keep our Help Pages accurate, relevant, and oh-so-relatable.
+>
+> **Transparency: Openness Policy**
+>
+> We strive to create a comprehensive and helpful resource. By contributing to the Help Pages, which is open source material, you're engaging in open dialogue and sharing different perspectives, which helps us provide an honest, less biased, and transparent resource for everyone navigating the health care system.
+>
+> **Agency: Empower Others to Take Charge**
+>
+> With the collective wisdom of our community, we support individuals in making informed decisions about their health care. Your contributions educate others, enabling them to take charge of their health care more confidently!
+>
+> **Justice: Fairness for All**
+>
+> We're passionate about fairness and equity, which means ensuring our Help Pages are inclusive and representative of all voices. Your contributions help us create a resource that's for everyone.
+>
+> **Reluctance: Slow and Steady Wins the Race**
+>
+> While we love innovation and creativity, we're also big fans of thoughtful, deliberate decision-making. Your contributions ensure our Help Pages are accurate, well-researched, and built to last.
 
-Health care is serious business, and lousy health care is dangerous, but we like to have fun while we create change. We need your fresh perspectives and creative problem-solving to challenge the status quo and make our Help Pages a treasure trove of innovative ideas.
-
-**Generosity: Sharing is Caring**
-
-When you contribute to our Help Pages, you're not only helping yourself – you're helping others, too! By sharing your know-how, you're creating a valuable, free resource for everyone to access and enjoy.
-
-**Proximity: We're All in This Together**
-
-Our community is the lifeblood of Payless Health. By sourcing content from people like you, we keep our Help Pages accurate, relevant, and oh-so-relatable.
-
-**Transparency: Openness Policy**
-
-We strive to create a comprehensive and helpful resource. By contributing to the Help Pages, which is open source material, you're engaging in open dialogue and sharing different perspectives, which helps us provide an honest, less biased, and transparent resource for everyone navigating the health care system.
-
-**Agency: Empower Others to Take Charge**
-
-With the collective wisdom of our community, we support individuals in making informed decisions about their health care. Your contributions educate others, enabling them to take charge of their health care more confidently!
-
-**Justice: Fairness for All**
-
-We're passionate about fairness and equity, which means ensuring our Help Pages are inclusive and representative of all voices. Your contributions help us create a resource that's for everyone.
-
-**Reluctance: Slow and Steady Wins the Race**
-
-While we love innovation and creativity, we're also big fans of thoughtful, deliberate decision-making. Your contributions ensure our Help Pages are accurate, well-researched, and built to last.
 
 **Now, About Those Licenses...**
 
