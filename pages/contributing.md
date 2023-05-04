@@ -12,7 +12,7 @@ Authors: {% $markdoc.frontmatter.authors %}
 
 
 ## Contributing to Help Pages
-**Let's harnessing community wisdom to create an open-source treasure trove of health care know-how**
+**Let's harness community wisdom to create an open-source treasure trove of health care know-how**
 
 
 
