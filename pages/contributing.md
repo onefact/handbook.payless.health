@@ -13,9 +13,9 @@ Authors: {% $markdoc.frontmatter.authors %}
 
 ## Contributing Help Pages
 
-**Join the Payless Health Party: Contribute Your Help Pages and Build Agency in Health Care!**
+## Join the Payless Health Party: Contribute Your Help Pages and Build Agency in Health Care!
+### Harnessing collective community wisdom to create an open-source treasure trove of health care know-how
 
-_Harnessing collective community wisdom to create an open-source treasure trove of health care know-how_
 
 Welcome, health care adventurers, to the Payless Health Help Pages! We're on a mission to make navigating health care systems easier, and we need your help!
 
