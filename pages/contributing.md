@@ -55,6 +55,7 @@ The Help Pages are an empowering, educational collection of resources created by
 
 We want to keep our Help Pages open-source and accessible, so all contributions are shared under Creative Commons (CC) licenses – either ShareAlike (SA) or NoDerivatives (ND). Curious about the specifics? We've got you covered with our [FAQs on licensing!](https://www.payless.health/faq)
 
+
 **So There You Have it, Folks**
 
 Your contributions to our Help Pages are the secret sauce that makes Payless Health a vibrant and fun resource for everyone that supports self-advocacy and self-efficacy in health care. By sharing your knowledge and experiences, you're helping us create a more accessible and equitable health care experience for all.
