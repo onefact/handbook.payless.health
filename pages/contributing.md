@@ -64,8 +64,7 @@ Your contributions to our Help Pages are the secret sauce that makes Payless Hea
 Ready to join the party? Let's do this together!
 
 
-**Share Your Expertise for Self-Advocacy Success**
-
+## Share Your Expertise for Self-Advocacy Success ##
 We're excited to have you contribute and are here to help guide you in the right direction. Right now, there's some specific material we're particularly interested in.
 
 We're on the lookout for guidance on the basics of self-advocacy in health care from both everyday patients and expert advocates (and we know that sometimes, you're both!). We want to share the methods, tips, and tricks you've discovered that can empower people to make their voices heard, navigate the health care system like pros, and become their own health care heroes.
