@@ -9,3 +9,13 @@ authors: Rachel Westlake, BCPA, Jaan Altosaar, PhD
 Authors: {% $markdoc.frontmatter.authors %}
 
 [Edit this page](https://github.com/onefact/handbook.payless.health/edit/main/pages/contributing.md)
+
+
+## Contributing Help Pages
+
+
+## Contributing Software Design & Improvements
+
+## Contributing Research
+
+## Contributing Marketing
