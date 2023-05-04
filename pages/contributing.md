@@ -56,6 +56,7 @@ The Help Pages are an empowering, educational collection of resources created by
 We want to keep our Help Pages open-source and accessible, so all contributions are shared under Creative Commons (CC) licenses – either ShareAlike (SA) or NoDerivatives (ND). Curious about the specifics? We've got you covered with our [FAQs on licensing!](https://www.payless.health/faq)
 
 
+
 **So There You Have it, Folks**
 
 Your contributions to our Help Pages are the secret sauce that makes Payless Health a vibrant and fun resource for everyone that supports self-advocacy and self-efficacy in health care. By sharing your knowledge and experiences, you're helping us create a more accessible and equitable health care experience for all.
@@ -63,7 +64,8 @@ Your contributions to our Help Pages are the secret sauce that makes Payless Hea
 Ready to join the party? Let's do this together!
 
 
-#Share Your Expertise for Self-Advocacy Success#
+**Share Your Expertise for Self-Advocacy Success**
+
 We're excited to have you contribute and are here to help guide you in the right direction. Right now, there's some specific material we're particularly interested in.
 
 We're on the lookout for guidance on the basics of self-advocacy in health care from both everyday patients and expert advocates (and we know that sometimes, you're both!). We want to share the methods, tips, and tricks you've discovered that can empower people to make their voices heard, navigate the health care system like pros, and become their own health care heroes.
