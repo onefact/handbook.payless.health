@@ -21,7 +21,7 @@ Cancer can be emotionally and logistically draining. Don't navigate your diagnos
 3. **Do Your Research**  
 Being informed will help you better understand your diagnosis and feel more prepared to make decisions about your care. Spend time researching your diagnosis and local doctors who specialize in your type of cancer. It's especially important to identify specialists for rare cancer types, as they could benefit from a doctor familiar with that specific diagnosis.
 
-   But remember to exercise caution when conducting your research. Consult only reputable sources (such as Cancer.gov, the American Cancer Society, and academic institutions). Keep in mind that statistics represent averages, not individuals. Each person with a cancer diagnosis has their unique experience and circumstances.
+But remember to exercise caution when conducting your research. Consult only reputable sources (such as Cancer.gov, the American Cancer Society, and academic institutions). Keep in mind that statistics represent averages, not individuals. Each person with a cancer diagnosis has their unique experience and circumstances.
 
 4. **Seek a Second (or Even Third) Opinion**  
 Before beginning treatment, consider seeking multiple opinions from different medical professionals. This approach ensures the backing of more than one expert; a second opinion can also provide peace of mind when making treatment decisions. It's beneficial for your care team to be aware of your intention to seek another opinion. If you're hesitant to share with your doctors that you're seeking another opinion, remember that it's common practice. Many doctors welcome the input of other medical professionals.
