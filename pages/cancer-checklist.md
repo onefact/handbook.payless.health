@@ -1,5 +1,5 @@
 --- 
-title: The Cancer Checklist: What to Do When You're Diagnosed
+title: The Cancer Checklist - What to Do When You're Diagnosed
 description: How to get started with mental health care.
 authors: Claire Thevenot, Patient Advocate
 editor: Rachel Westlake, BCPA
