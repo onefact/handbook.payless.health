@@ -38,5 +38,5 @@ The first few weeks after a cancer diagnosis are stressful and scary time. Takin
 This work is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License (CC-BY-SA-4.0), available at https://creativecommons.org/licenses/by-sa/4.0/.
 SPDX-License-Identifier: CC-BY-SA-4.0
 
-Signed-off-by: Claire Thevenot <claire@claritypatientadvocates.com
+Signed-off-by: Claire Thevenot <claire@claritypatientadvocates.com>
 
