@@ -34,7 +34,7 @@ Taking care of your emotional wellbeing also involves setting boundaries around 
 
 The first few weeks after a cancer diagnosis are stressful and scary time. Taking care of yourself, being proactive and informed, and surrounding yourself with a support system – whether it's family, friends, a support group, or a patient advocate – will make this time a lot less stressful.
 
-<br><br><br>
+<br> <br> <br>
 
 
 This work is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License (CC-BY-SA-4.0), available at https://creativecommons.org/licenses/by-sa/4.0/.
