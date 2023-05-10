@@ -1,6 +1,6 @@
 --- 
 title: The Cancer Checklist - What to Do When You're Diagnosed
-authors: Claire Thevenot, Patient Advocate
+authors: Claire Thevenot, RN, OCN, BCPA
 editor: Rachel Westlake, BCPA
 ---
 
