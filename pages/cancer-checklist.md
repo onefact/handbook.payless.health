@@ -32,4 +32,11 @@ It can be easy for your emotional wellbeing to fall by the wayside when focusing
 7. **Set Boundaries**  
 Taking care of your emotional wellbeing also involves setting boundaries around how you talk about your cancer diagnosis and experience. When I was diagnosed with stage-4 breast cancer, one of the things that surprised me most was the volume of misguided or inappropriate comments made to me by caring and well-intentioned people who didn't understand what I was going through. These remarks ranged from sharing stories of friends with the same type of cancer who may have had bad outcomes to offering miracle cures. While not always negative, these comments also put the emotional burden on me to respond to a sensitive topic. It’s perfectly okay to politely shut down these conversations; find a way to tell people who offer unsolicited advice that you're working with your care team to find the best treatment for you, and leave it at that.
 
-The first few weeks after a cancer diagnosis are stressful and scary time. Taking care of yourself, being proactive and informed, and surrounding yourself with a support system – whether it's family, friends, a support group, or a patient advocate – will make
+The first few weeks after a cancer diagnosis are stressful and scary time. Taking care of yourself, being proactive and informed, and surrounding yourself with a support system – whether it's family, friends, a support group, or a patient advocate – will make this time a lot less stressful.
+
+
+This work is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License (CC-BY-SA-4.0), available at https://creativecommons.org/licenses/by-sa/4.0/.
+SPDX-License-Identifier: CC-BY-SA-4.0
+
+Signed-off-by: Claire Thevenot <claire@claritypatientadvocates.com
+
