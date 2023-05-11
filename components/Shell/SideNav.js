@@ -8,6 +8,7 @@ const items = [
     links: [
       { href: '/finding-a-therapist', children: 'Finding a Therapist' },
       { href: '/guide-to-cheaper-prescriptions', children: 'Guide to Cheaper Prescriptions' },
+      { href: '/cancer-checklist', children: 'Cancer Checklist' }
     ]
   },
 ];
