@@ -25,13 +25,13 @@ Do a general google search of therapists in your area. [Psychology Today](https:
 
 ## Making your first call
 
-After reading what’s available about the therapist, and if you like what you read, add them to a list of folks to consider, for example in a Google Spreadsheet. If you are curious about them, call them. Call them anytime. Don’t set the task aside for too long. Get in the habit of feeling casual(ish) about making these calls.  I recommend calling between 5-15 therapists before you choose one. Meet with two or three. Leave a message or have a conversation that begins with an honest and succinct explanation of what you want to work on and tell them you are willing and ready to work. 
+After reading what’s available about the therapist, and if you like what you read, add them to a list of folks to consider, for example, in a Google Spreadsheet. If you are curious about them, call them. Call them anytime. Don’t set the task aside for too long. Get in the habit of feeling casual(ish) about making these calls.  I recommend calling between 5-15 therapists and meeting with two or three. Leave a message or have a conversation that begins with an honest and simple explanation of what you want to work on and tell them you are willing and ready to work. 
 
 ## What to say during the phone call
 
 * Explain what you think might be bothering you or tell them you don’t know.  
 
-* If you’ve worked with a therapist before, share with the person what worked in past relationships with mental health providers and what didn’t. For example, you can share if/why your previous therapist wasn’t or was a good match, if they provided enough feedback, if they honored your experience in a way that felt good for you, or if they had a pleasant place to meet. How they respond to this information may inform your understanding of what they value in therapeutic relationships.  
+* If you’ve worked with a therapist before, share with the person what worked in past relationships with mental health providers and what didn’t. For example, you can share if/why your previous therapist wasn’t or was a good match, if they provided enough feedback if they honored your experience in a way that felt good for you, or if they had a pleasant place to meet. How they respond to this information may inform your understanding of what they value in therapeutic relationships.  
 
 * Ask them what they think, how they may help, and their modalities of practice and interests. Observe if you laugh or smile while talking to them. Therapy can be playful and satisfying. It makes sense if you don’t feel like laughing because of what’s happening for you, and that is very ok.
 
@@ -49,9 +49,9 @@ After reading what’s available about the therapist, and if you like what you r
 
 * If you’re able, provide in-time feedback to the new therapist. Be as much a participant in your care as you are able. For example, “I’m interested in hearing more from you in our sessions,” or “I’d like to try Eye Movement Desensitization and Reprocessing (EMDR). Would you be able to work on that with me for this trauma?” or “I want to think about how this relates to an event in my earlier life.”
 
-* In your first session, you’ll both be checking each other out. Try not to worry too much about embarrassing yourself, be authentic and present – for some of us, this is a complex and rare opportunity. You may want to cover some ground and give them a scope of what’s happening.  Observe them and yourself. Do you feel heard and cared for?  Do you feel safe?  Do you feel intellectually matched? Do you feel aligned in other ways? Will the environment of their office or their telehealth services be comfortable for you?
+* In your first session, you’ll both be checking each other out. Try not to worry too much about embarrassing yourself, be authentic and present – for some of us, this is a complex and rare opportunity. You may want to cover some ground and give them a scope of what’s happening. Observe them and yourself. Do you feel heard and cared for?  Do you feel safe?  Do you feel understood? Do you feel aligned in other ways? Will the environment of their office or their telehealth services be comfortable for you?
 
-* Maybe therapy is fun. Perhaps it is challenging. Worthwhile work can be difficult and worthwhile work makes us satisfied creatures. If you’ve landed on someone you like for good reasons, give it some time.  Establishing trust and getting into some more profound work can take time.
+* Maybe therapy is fun. Perhaps it is challenging. Worthwhile work can be difficult, and worthwhile work makes us satisfied creatures. If you’ve found someone you like, give it some time.  Establishing trust and getting into some more profound work can take time.
 
 ## Next steps
 
@@ -59,4 +59,4 @@ There are many forms or “modalities” of mental and emotional therapeutic car
 
 Many forms of expression-focused therapy can help you work through things in supportive containers (i.e., dance therapy). If you have had a trauma, or even if you don’t think you have therapists trained in trauma-informed care is helpful to find. Trauma is not always what we think it is, and it informs life experiences for most of us. You haven’t done something wrong if you have had a traumatic experience. 
 
-You may have to try out a few different types of therapy, and one might be better in one phase of your life than another. It can be challenging to work through figuring this out while you are struggling.  If you want to find an independent patient or health care advocate to support you in finding the care you need, go to [GNAnow.org](GNAnow.org) and [AdvoConnection.com](AdvoConnection.com). 
+You may have to try a few different types of therapy, and one might be better in one phase of your life than another. It can be challenging to work through figuring this out while you are struggling.  If you want to find an independent patient or health care advocate to support you in finding the care you need, go to [GNAnow.org](GNAnow.org) and [AdvoConnection.com](AdvoConnection.com). 
