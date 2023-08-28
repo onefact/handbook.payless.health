@@ -12,7 +12,7 @@ Editor: {% $markdoc.frontmatter.editor %}
 
 [Edit this page](https://github.com/onefact/handbook.payless.health/edit/main/pages/guide-to-cheaper-prescriptions.md)
 
-Each time a new drug is approved, it costs manufactures an average of $180,000 over a year to bring it to market. It is no surprise that these astronomical costs are passed on to consumers – we the patients. Americans spend an average of $1,300 per person per year on prescription drugs. [source: [Bloomberg News](https://www.bloomberg.com/news/articles/2022-07-19/why-prescription-drug-prices-in-the-us-are-so-high-quicktake)]
+Each time a new drug is approved, it costs manufacturers an average of $180,000 over a year to bring it to market. It is no surprise that these astronomical costs are passed on to consumers – we the patients. Americans spend an average of $1,300 per person per year on prescription drugs. [source: [Bloomberg News](https://www.bloomberg.com/news/articles/2022-07-19/why-prescription-drug-prices-in-the-us-are-so-high-quicktake)]
 
 But what can we do about it?
 
